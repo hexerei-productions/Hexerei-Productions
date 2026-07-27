@@ -218,6 +218,7 @@ margin-top:100px;
 
 .hero {
 height:100vh;
+background:white;
 display:flex;
 justify-content:center;
 align-items:center;
