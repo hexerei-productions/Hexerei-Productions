@@ -270,3 +270,8 @@ height:auto;
     color: white;
     padding-left: 10px;
 }
+.overlay {
+    background: none !important;
+    padding: 0 !important;
+}
+
