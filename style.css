@@ -278,4 +278,12 @@ height:auto;
     background: none !important;
     padding: 0 !important;
 }
+.top-border {
+    width: 100%;
+    height: 80px;
+    background-image: url("leaf.png");
+    background-repeat: repeat-x;
+    background-size: auto 80px;
+    background-position: center;
+}
 
