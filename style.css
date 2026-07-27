@@ -43,6 +43,12 @@ z-index:999;
 height:70px;
 
 }
+.title-logo {
+    width: 500px;
+    max-width: 90%;
+    height: auto;
+}
+
 
 nav ul{
 
