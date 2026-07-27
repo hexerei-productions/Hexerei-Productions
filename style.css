@@ -46,7 +46,7 @@ height:70px;
 
 }
 .title-logo {
-    width: 500px;
+    width: 800px;
     max-width: 90%;
     height: auto;
 }
@@ -84,7 +84,7 @@ color:#b8860b;
 
 height:100vh;
 
-background:url(images/hero.jpg) center center/cover;
+background:white;
 
 display:flex;
 
@@ -96,15 +96,12 @@ text-align:center;
 
 }
 
-.overlay{
-
-background:rgba(0,0,0,.55);
-
-padding:50px;
-
-width:100%;
-
+.overlay {
+    background: transparent;
+    padding: 0;
+    width: auto;
 }
+
 
 .hero h1{
 
