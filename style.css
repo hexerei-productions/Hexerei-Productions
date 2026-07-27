@@ -46,10 +46,13 @@ height:700px;
 
 }
 .title-logo {
-    width:700px;
-    max-width:85vw;
+    width: 55%;
+    max-width: 500px;
     height: auto;
+    display: block;
+    margin: 0 auto;
 }
+
 
 
 nav ul{
